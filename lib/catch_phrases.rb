@@ -1,4 +1,4 @@
-def all_phrases 
+
 
 def mario
   phrase = "It's-a me, Mario!"
@@ -14,5 +14,3 @@ def link
   puts "It's Dangerous To Go Alone! Take This."
 end 
 
-puts phrase, $status, link
-end 
