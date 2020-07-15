@@ -15,5 +15,5 @@ def link
 end 
 
 def all_phrases
-  puts $status, mario
+  puts "It's Dangerous To Go Alone! Take This." $status, mario
 end
